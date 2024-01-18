@@ -2,7 +2,7 @@
 
 ## 👨🏾‍💻 Sobre mim
 - Graduando em Sistemas de Informação, morador do Rio de Janeiro 
-- Programador Java e um eterno estudante das mais variadas tecnologias
+- Java e C# e um eterno estudante das mais variadas tecnologias
 - Interesse na área de segurança e monitoramento
 - Amante de esportes e atividades físicas
 - 📫 marcoaurelio.lopes.junior@gmail.com
